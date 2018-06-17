@@ -1,1 +1,1 @@
-# Course_Manager_Application_React_Student_Application_Node
+# Course_Manager_Student_Application_Node
